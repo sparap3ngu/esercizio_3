@@ -6,3 +6,5 @@ Questo file è dato da master + nuovo.
 Creato master, committato
 Creato nuovo, committato
 Merge andato a buon fine!
+
+Aggiungo una riga anche qui!
