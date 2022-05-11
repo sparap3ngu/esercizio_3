@@ -1,6 +1,6 @@
 Hello-World!
 
-Questa riga è il primo commit sul nuovo branch!
+Questa riga è il primo commit su quell'altro branch!
 
 Questo file è dato da master + nuovo.
 Creato master, committato
