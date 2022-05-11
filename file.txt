@@ -1,3 +1,8 @@
 Hello-World!
 
 Questa riga è il primo commit sul nuovo branch!
+
+Questo file è dato da master + nuovo.
+Creato master, committato
+Creato nuovo, committato
+Merge andato a buon fine!
