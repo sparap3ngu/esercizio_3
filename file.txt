@@ -7,4 +7,5 @@ Creato master, committato
 Creato nuovo, committato
 Merge andato a buon fine!
 
-Aggiungo una riga anche qui!
+Aggiungo una riga che conflitterà con il master
+
