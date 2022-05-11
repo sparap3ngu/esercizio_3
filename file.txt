@@ -11,3 +11,5 @@ Aggiungo una riga che conflitterà con il master
 
 Creo questo branch per capire sourcetree
 Aggiungo un'altra riga per fare un altro commit
+
+Ora sono sul master
